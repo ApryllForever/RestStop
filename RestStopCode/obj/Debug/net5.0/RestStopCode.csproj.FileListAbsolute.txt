@@ -1,0 +1,10 @@
+C:\Users\Apryl\source\repos\RestStopCode\bin\Debug\net5.0\RestStopCode.deps.json
+C:\Users\Apryl\source\repos\RestStopCode\bin\Debug\net5.0\RestStopCode.dll
+C:\Users\Apryl\source\repos\RestStopCode\bin\Debug\net5.0\RestStopCode.pdb
+C:\Users\Apryl\source\repos\RestStopCode\obj\Debug\net5.0\RestStopCode.csproj.AssemblyReference.cache
+C:\Users\Apryl\source\repos\RestStopCode\obj\Debug\net5.0\RestStopCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apryl\source\repos\RestStopCode\obj\Debug\net5.0\RestStopCode.AssemblyInfoInputs.cache
+C:\Users\Apryl\source\repos\RestStopCode\obj\Debug\net5.0\RestStopCode.AssemblyInfo.cs
+C:\Users\Apryl\source\repos\RestStopCode\obj\Debug\net5.0\RestStopCode.csproj.CoreCompileInputs.cache
+C:\Users\Apryl\source\repos\RestStopCode\obj\Debug\net5.0\RestStopCode.dll
+C:\Users\Apryl\source\repos\RestStopCode\obj\Debug\net5.0\RestStopCode.pdb

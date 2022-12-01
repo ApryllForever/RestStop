@@ -1,0 +1,20 @@
+{
+  "Name": "Rest Stop Code",
+  "Author": "ApryllForever",
+  "Description": "Adds Code",
+  "Version": "1.0",
+  "UpdateKeys": [ "Nexus:???" ],
+  "UniqueID": "ApryllForever.RestStopCode",
+  "EntryDll": "RestStopCode.dll",
+  "Dependencies": [
+    {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    {
+      "uniqueID": "spacechase0.JsonAssets"
+    }
+  ]
+
+
+
+}
